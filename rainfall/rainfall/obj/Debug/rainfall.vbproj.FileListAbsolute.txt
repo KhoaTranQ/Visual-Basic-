@@ -1,0 +1,10 @@
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter8\rainfall\rainfall\bin\Debug\rainfall.exe.config
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter8\rainfall\rainfall\bin\Debug\rainfall.exe
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter8\rainfall\rainfall\bin\Debug\rainfall.pdb
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter8\rainfall\rainfall\bin\Debug\rainfall.xml
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter8\rainfall\rainfall\obj\Debug\rainfall.Form1.resources
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter8\rainfall\rainfall\obj\Debug\rainfall.Resources.resources
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter8\rainfall\rainfall\obj\Debug\rainfall.vbproj.GenerateResource.Cache
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter8\rainfall\rainfall\obj\Debug\rainfall.exe
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter8\rainfall\rainfall\obj\Debug\rainfall.xml
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter8\rainfall\rainfall\obj\Debug\rainfall.pdb
