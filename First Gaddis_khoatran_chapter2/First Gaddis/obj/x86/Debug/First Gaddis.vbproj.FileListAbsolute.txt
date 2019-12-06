@@ -1,0 +1,21 @@
+D:\sovb12\Student Sample Programs\Chap2\First Gaddis\First Gaddis\bin\Debug\First Gaddis.exe
+D:\sovb12\Student Sample Programs\Chap2\First Gaddis\First Gaddis\bin\Debug\First Gaddis.pdb
+D:\sovb12\Student Sample Programs\Chap2\First Gaddis\First Gaddis\bin\Debug\First Gaddis.xml
+D:\sovb12\Student Sample Programs\Chap2\First Gaddis\First Gaddis\obj\x86\Debug\First_Gaddis.Form1.resources
+D:\sovb12\Student Sample Programs\Chap2\First Gaddis\First Gaddis\obj\x86\Debug\First_Gaddis.Resources.resources
+D:\sovb12\Student Sample Programs\Chap2\First Gaddis\First Gaddis\obj\x86\Debug\First Gaddis.vbproj.GenerateResource.Cache
+D:\sovb12\Student Sample Programs\Chap2\First Gaddis\First Gaddis\obj\x86\Debug\First Gaddis.exe
+D:\sovb12\Student Sample Programs\Chap2\First Gaddis\First Gaddis\obj\x86\Debug\First Gaddis.xml
+D:\sovb12\Student Sample Programs\Chap2\First Gaddis\First Gaddis\obj\x86\Debug\First Gaddis.pdb
+C:\Users\trank0040\Desktop\StudentsDataFiles\Student Sample Programs\Chap2\First Gaddis\First Gaddis\obj\x86\Debug\First Gaddis.exe
+C:\Users\trank0040\Desktop\StudentsDataFiles\Student Sample Programs\Chap2\First Gaddis\First Gaddis\bin\Debug\First Gaddis.exe
+C:\Users\trank0040\Desktop\StudentsDataFiles\Student Sample Programs\Chap2\First Gaddis\First Gaddis\bin\Debug\First Gaddis.pdb
+C:\Users\trank0040\Desktop\StudentsDataFiles\Student Sample Programs\Chap2\First Gaddis\First Gaddis\bin\Debug\First Gaddis.xml
+C:\Users\trank0040\Desktop\StudentsDataFiles\Student Sample Programs\Chap2\First Gaddis\First Gaddis\obj\x86\Debug\First_Gaddis.Form1.resources
+C:\Users\trank0040\Desktop\StudentsDataFiles\Student Sample Programs\Chap2\First Gaddis\First Gaddis\obj\x86\Debug\First_Gaddis.Resources.resources
+C:\Users\trank0040\Desktop\StudentsDataFiles\Student Sample Programs\Chap2\First Gaddis\First Gaddis\obj\x86\Debug\First Gaddis.vbproj.GenerateResource.Cache
+C:\Users\trank0040\Desktop\StudentsDataFiles\Student Sample Programs\Chap2\First Gaddis\First Gaddis\obj\x86\Debug\First Gaddis.xml
+C:\Users\trank0040\Desktop\StudentsDataFiles\Student Sample Programs\Chap2\First Gaddis\First Gaddis\obj\x86\Debug\First Gaddis.pdb
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter2\First Gaddis\First Gaddis\obj\x86\Debug\First Gaddis.exe
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter2\First Gaddis\First Gaddis\obj\x86\Debug\First Gaddis.xml
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter2\First Gaddis\First Gaddis\obj\x86\Debug\First Gaddis.pdb

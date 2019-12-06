@@ -1,0 +1,20 @@
+E:\Fall 2015\Visual Basic\LaymonDaniel_Chapter6\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe.config
+E:\Fall 2015\Visual Basic\LaymonDaniel_Chapter6\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe
+E:\Fall 2015\Visual Basic\LaymonDaniel_Chapter6\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.pdb
+E:\Fall 2015\Visual Basic\LaymonDaniel_Chapter6\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.xml
+E:\Fall 2015\Visual Basic\LaymonDaniel_Chapter6\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Form1.resources
+E:\Fall 2015\Visual Basic\LaymonDaniel_Chapter6\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Resources.resources
+E:\Fall 2015\Visual Basic\LaymonDaniel_Chapter6\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.vbproj.GenerateResource.Cache
+E:\Fall 2015\Visual Basic\LaymonDaniel_Chapter6\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.exe
+E:\Fall 2015\Visual Basic\LaymonDaniel_Chapter6\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.xml
+E:\Fall 2015\Visual Basic\LaymonDaniel_Chapter6\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.pdb
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe.config
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.xml
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.pdb
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.pdb
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.xml
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Form1.resources
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Resources.resources
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.vbproj.GenerateResource.Cache
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.exe
