@@ -1,0 +1,22 @@
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter4\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\Membership Fee Calculator.exe.config
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter4\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\Membership Fee Calculator.exe
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter4\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\Membership Fee Calculator.pdb
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter4\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\Membership Fee Calculator.xml
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership_Fee_Calculator.Form1.resources
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership_Fee_Calculator.Resources.resources
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.vbproj.GenerateResource.Cache
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.exe
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.xml
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.pdb
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Khoa\Desktop\Files\school\VBproject\Membership Fee Calculator_Khoa Tran_chapter4\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\Membership Fee Calculator.exe.config
+C:\Users\Khoa\Desktop\Files\school\VBproject\Membership Fee Calculator_Khoa Tran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.exe
+C:\Users\Khoa\Desktop\Files\school\VBproject\Membership Fee Calculator_Khoa Tran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.xml
+C:\Users\Khoa\Desktop\Files\school\VBproject\Membership Fee Calculator_Khoa Tran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.pdb
+C:\Users\Khoa\Desktop\Files\school\VBproject\Membership Fee Calculator_Khoa Tran_chapter4\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\Membership Fee Calculator.exe
+C:\Users\Khoa\Desktop\Files\school\VBproject\Membership Fee Calculator_Khoa Tran_chapter4\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\Membership Fee Calculator.pdb
+C:\Users\Khoa\Desktop\Files\school\VBproject\Membership Fee Calculator_Khoa Tran_chapter4\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\Membership Fee Calculator.xml
+C:\Users\Khoa\Desktop\Files\school\VBproject\Membership Fee Calculator_Khoa Tran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Khoa\Desktop\Files\school\VBproject\Membership Fee Calculator_Khoa Tran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership_Fee_Calculator.Form1.resources
+C:\Users\Khoa\Desktop\Files\school\VBproject\Membership Fee Calculator_Khoa Tran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership_Fee_Calculator.Resources.resources
+C:\Users\Khoa\Desktop\Files\school\VBproject\Membership Fee Calculator_Khoa Tran_chapter4\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.vbproj.GenerateResource.Cache

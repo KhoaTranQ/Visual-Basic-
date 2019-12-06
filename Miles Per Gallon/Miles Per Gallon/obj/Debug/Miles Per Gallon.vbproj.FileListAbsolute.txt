@@ -1,0 +1,10 @@
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter3\Miles Per Gallon\Miles Per Gallon\bin\Debug\Miles Per Gallon.exe.config
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter3\Miles Per Gallon\Miles Per Gallon\obj\Debug\Miles_Per_Gallon.Form1.resources
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter3\Miles Per Gallon\Miles Per Gallon\obj\Debug\Miles_Per_Gallon.Resources.resources
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter3\Miles Per Gallon\Miles Per Gallon\obj\Debug\Miles Per Gallon.vbproj.GenerateResource.Cache
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter3\Miles Per Gallon\Miles Per Gallon\bin\Debug\Miles Per Gallon.exe
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter3\Miles Per Gallon\Miles Per Gallon\bin\Debug\Miles Per Gallon.pdb
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter3\Miles Per Gallon\Miles Per Gallon\bin\Debug\Miles Per Gallon.xml
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter3\Miles Per Gallon\Miles Per Gallon\obj\Debug\Miles Per Gallon.exe
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter3\Miles Per Gallon\Miles Per Gallon\obj\Debug\Miles Per Gallon.xml
+C:\Users\trank0040\Desktop\VBproject\Khoatran_chapter3\Miles Per Gallon\Miles Per Gallon\obj\Debug\Miles Per Gallon.pdb
