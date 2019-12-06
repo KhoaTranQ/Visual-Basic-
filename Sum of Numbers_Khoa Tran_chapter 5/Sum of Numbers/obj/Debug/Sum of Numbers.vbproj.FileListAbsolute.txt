@@ -1,0 +1,10 @@
+C:\Users\Khoa Tran\Desktop\VB\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+C:\Users\Khoa Tran\Desktop\VB\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+C:\Users\Khoa Tran\Desktop\VB\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+C:\Users\Khoa Tran\Desktop\VB\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.xml
+C:\Users\Khoa Tran\Desktop\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Form1.resources
+C:\Users\Khoa Tran\Desktop\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Resources.resources
+C:\Users\Khoa Tran\Desktop\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbproj.GenerateResource.Cache
+C:\Users\Khoa Tran\Desktop\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+C:\Users\Khoa Tran\Desktop\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.xml
+C:\Users\Khoa Tran\Desktop\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.pdb

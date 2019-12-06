@@ -1,0 +1,20 @@
+C:\Users\Khoa Tran\Desktop\VB\Vehical loan calculator\Vehical loan calculator\bin\Debug\Vehical loan calculator.exe.config
+C:\Users\Khoa Tran\Desktop\VB\Vehical loan calculator\Vehical loan calculator\bin\Debug\Vehical loan calculator.exe
+C:\Users\Khoa Tran\Desktop\VB\Vehical loan calculator\Vehical loan calculator\bin\Debug\Vehical loan calculator.pdb
+C:\Users\Khoa Tran\Desktop\VB\Vehical loan calculator\Vehical loan calculator\bin\Debug\Vehical loan calculator.xml
+C:\Users\Khoa Tran\Desktop\VB\Vehical loan calculator\Vehical loan calculator\obj\Debug\Vehical_loan_calculator.Form1.resources
+C:\Users\Khoa Tran\Desktop\VB\Vehical loan calculator\Vehical loan calculator\obj\Debug\Vehical_loan_calculator.Resources.resources
+C:\Users\Khoa Tran\Desktop\VB\Vehical loan calculator\Vehical loan calculator\obj\Debug\Vehical loan calculator.vbproj.GenerateResource.Cache
+C:\Users\Khoa Tran\Desktop\VB\Vehical loan calculator\Vehical loan calculator\obj\Debug\Vehical loan calculator.exe
+C:\Users\Khoa Tran\Desktop\VB\Vehical loan calculator\Vehical loan calculator\obj\Debug\Vehical loan calculator.xml
+C:\Users\Khoa Tran\Desktop\VB\Vehical loan calculator\Vehical loan calculator\obj\Debug\Vehical loan calculator.pdb
+C:\Users\Khoa\Desktop\Files\school\VBproject\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical loan calculator\bin\Debug\Vehical loan calculator.exe.config
+C:\Users\Khoa\Desktop\Files\school\VBproject\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical loan calculator\obj\Debug\Vehical loan calculator.exe
+C:\Users\Khoa\Desktop\Files\school\VBproject\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical loan calculator\obj\Debug\Vehical loan calculator.xml
+C:\Users\Khoa\Desktop\Files\school\VBproject\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical loan calculator\obj\Debug\Vehical loan calculator.pdb
+C:\Users\Khoa\Desktop\Files\school\VBproject\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical loan calculator\bin\Debug\Vehical loan calculator.exe
+C:\Users\Khoa\Desktop\Files\school\VBproject\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical loan calculator\bin\Debug\Vehical loan calculator.pdb
+C:\Users\Khoa\Desktop\Files\school\VBproject\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical loan calculator\bin\Debug\Vehical loan calculator.xml
+C:\Users\Khoa\Desktop\Files\school\VBproject\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical loan calculator\obj\Debug\Vehical_loan_calculator.Form1.resources
+C:\Users\Khoa\Desktop\Files\school\VBproject\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical loan calculator\obj\Debug\Vehical_loan_calculator.Resources.resources
+C:\Users\Khoa\Desktop\Files\school\VBproject\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical Loan Calculator_Khoa Tran_chapter 5\Vehical loan calculator\obj\Debug\Vehical loan calculator.vbproj.GenerateResource.Cache
