@@ -1,0 +1,20 @@
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data\employee data\bin\Debug\employee data.exe.config
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data\employee data\bin\Debug\employee data.exe
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data\employee data\bin\Debug\employee data.pdb
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data\employee data\bin\Debug\employee data.xml
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data\employee data\obj\Debug\employee_data.Form1.resources
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data\employee data\obj\Debug\employee_data.Resources.resources
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data\employee data\obj\Debug\employee data.vbproj.GenerateResource.Cache
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data\employee data\obj\Debug\employee data.exe
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data\employee data\obj\Debug\employee data.xml
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data\employee data\obj\Debug\employee data.pdb
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data part1\employee data\bin\Debug\employee data.exe.config
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data part1\employee data\obj\Debug\employee data.exe
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data part1\employee data\obj\Debug\employee data.xml
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data part1\employee data\obj\Debug\employee data.pdb
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data part1\employee data\bin\Debug\employee data.exe
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data part1\employee data\bin\Debug\employee data.pdb
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data part1\employee data\bin\Debug\employee data.xml
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data part1\employee data\obj\Debug\employee_data.Form1.resources
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data part1\employee data\obj\Debug\employee_data.Resources.resources
+C:\Users\trank0040\Desktop\VBproject\KhoaTran_chapter9\employee data part1\employee data\obj\Debug\employee data.vbproj.GenerateResource.Cache

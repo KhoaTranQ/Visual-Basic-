@@ -1,0 +1,14 @@
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\Bagel House\Bagel House\bin\Debug\Bagel House.exe.config
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\Bagel House\Bagel House\bin\Debug\Bagel House.exe
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\Bagel House\Bagel House\bin\Debug\Bagel House.pdb
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\Bagel House\Bagel House\bin\Debug\Bagel House.xml
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\Bagel House\Bagel House\obj\Debug\Bagel_House.Form1.resources
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\Bagel House\Bagel House\obj\Debug\Bagel_House.Resources.resources
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\Bagel House\Bagel House\obj\Debug\Bagel House.vbproj.GenerateResource.Cache
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\Bagel House\Bagel House\obj\Debug\Bagel House.exe
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\Bagel House\Bagel House\obj\Debug\Bagel House.xml
+C:\Users\trank0040\Desktop\VBproject\khoaTran_chapter6\Bagel House\Bagel House\obj\Debug\Bagel House.pdb
+C:\Users\Khoa\Desktop\VB projects\Bagel House\Bagel House\bin\Debug\Bagel House.exe.config
+C:\Users\Khoa\Desktop\VB projects\Bagel House\Bagel House\obj\Debug\Bagel House.exe
+C:\Users\Khoa\Desktop\VB projects\Bagel House\Bagel House\obj\Debug\Bagel House.xml
+C:\Users\Khoa\Desktop\VB projects\Bagel House\Bagel House\obj\Debug\Bagel House.pdb
